@@ -14,6 +14,6 @@ This is a simple PHP API that returns basic information in JSON format.
 {
   "email": "harveyelvis24@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/GUYAHAVI/HNG12-Backend-projects.git"
+  "github_url": "https://github.com/GUYAHAVI/hngx-stage0-public-api.git"
 }
 

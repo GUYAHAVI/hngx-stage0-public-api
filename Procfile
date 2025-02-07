@@ -1,1 +1,1 @@
-web: heroku-php-apache2git commit -m ""
+web: heroku-php-apache2 public/
